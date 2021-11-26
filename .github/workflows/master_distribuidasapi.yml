@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'DistribuidasApi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_328DAE1564E24DBE80718B895208EA65 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71F375F7F81948CE9547067DEB6183AF }}
           package: .
